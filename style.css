@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(29, 172, 192);
+}
+main{
+    width: 70%; 
+    margin-left: 15%; 
+    display: flex; 
+    align-items: center; 
+    margin-top: 7%;
+}
+div{
+    width: 30%; 
+    text-align: center; 
+    margin-left: 12%;
+    font-family: Arial, Helvetica, sans-serifs;
+}
+h1, .text1, .text2{
+    color: white;
+}
+h1{ 
+    font-size: 70px; 
+    margin: 0; 
+}
+h2{
+    color: rgb(206, 220, 106); 
+    font-size: 30px; 
+    margin: 0; 
+}
+.text1{ 
+    font-size: 18px; 
+}
+.text2{ 
+    font-size: 12px; 
+    margin-bottom: 15%;
+}
+a{
+    text-decoration: none; 
+    border: 1px solid rgb(255, 206, 49); background-color:rgb(255, 206, 49); 
+    padding: 15px 30px 15px 30px; 
+    border-radius: 5%; 
+    color: rgb(21, 0, 0); 
+}
